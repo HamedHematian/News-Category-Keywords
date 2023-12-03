@@ -10,5 +10,5 @@ The confusion matrix of test set is shown below:
 
 Further, we have extracted the important words for each category using the weights of Logistic Regression's weights, which is depicted in the below figure.
 
-![Important words for each category](category_mat.png)
+![Important words for each category](important_words.png)
 
